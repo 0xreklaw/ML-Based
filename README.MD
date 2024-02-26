@@ -1,2 +1,5 @@
 # ML Based
-This is a repository of my learnings and implementations of machine learning foundations. If you want to know how I got so good at ML, these are the guiding resources.
+This is a repository of my learnings and implementations of machine learning foundations.
+
+## Where to start
+I recommend starting in the foundations folder, which provides an overview of the foundational topics of machine learning.
