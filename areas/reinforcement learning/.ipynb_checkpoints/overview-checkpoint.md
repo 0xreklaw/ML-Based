@@ -1,4 +1,4 @@
-### An Overview of Reinforcement Learning
+# An Overview of Reinforcement Learning
 
 ### Foundations
 - Markov Decision Processes
