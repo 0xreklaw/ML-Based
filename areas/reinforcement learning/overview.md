@@ -1,5 +1,9 @@
 # An Overview of Reinforcement Learning
 
+### Helpful Resources
+- [Deepmind Lectures By Google](https://www.youtube.com/playlist?list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)
+- [Lecture Notes](https://www.davidsilver.uk/teaching/)
+
 ### Foundations
 - Markov Decision Processes
 - Exploration vs. Exploitation
