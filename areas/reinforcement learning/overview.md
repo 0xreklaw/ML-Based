@@ -41,3 +41,13 @@
 - Sample Efficiency
 - Parallel and Distributed RL
 
+### Algorithms
+- PID Controller
+- Model Predictive Control (MPC)
+- Kalman Filter and Extended Kalman Filter (EKF)
+- Deep Q Networks
+- Policy Gradient Methods
+- Actor-Critic Methods
+- Monte Carlo Methods
+- Temporal Difference Learning
+- Linear-Quadratic Regulator (LQR)
